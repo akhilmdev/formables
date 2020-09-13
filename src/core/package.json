@@ -1,0 +1,12 @@
+{
+    "name": "@formables/core",
+    "version": "0.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "formik": "2.1.5",
+        "yup": "0.29.3"
+    },
+    "peerDependencies": {
+    }
+  }
+  

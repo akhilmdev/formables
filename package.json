@@ -55,7 +55,10 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
-    "typescript": "^3.7.5"
+    "typescript": "^3.7.5",
+
+    "formik": "2.1.5",
+    "yup": "0.29.3"
   },
   "files": [
     "dist"
